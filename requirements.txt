@@ -1,0 +1,6 @@
+datasets
+transformers==4.46.3
+trl==0.12.1
+nltk==3.9.1
+wandb
+huggingface_hub
